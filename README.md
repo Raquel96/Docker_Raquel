@@ -1,1 +1,2 @@
-# Docker_Raquel
+Nombre: Raquel Espinosa
+Proyecto: SportLoja
